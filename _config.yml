@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Showkace"
 description              : "An un-amazing website."
 url                      : "https://Showkace.github.io"
-baseurl                  : "./"
+baseurl                  : "/docs"
 repository               : "/Showkace/Showkace.gitub.io"
 teaser                   : "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png"
